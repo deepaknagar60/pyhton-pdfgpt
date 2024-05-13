@@ -1,0 +1,10 @@
+fastapi==0.110.1
+langchain==0.1.16
+langchain_community==0.0.33
+langchain_openai==0.1.3
+langchain_text_splitters==0.0.1
+pydantic==2.7.0
+python-dotenv==1.0.1
+SQLAlchemy==2.0.28
+pymysql
+uvicorn 
